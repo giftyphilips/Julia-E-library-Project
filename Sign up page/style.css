@@ -1,0 +1,337 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body, input {
+    font-family: "Josefin Sans", sans-serif;
+  }
+  
+  .container {
+    min-height: 100vh;
+    overflow: hidden;
+    border-radius: 2px;
+    background-color: white;
+    width: 400px;
+    height: 350px;
+    margin: 0 auto;
+  }
+ .sign-up-page {
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 32px 45px 0 45px;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .sign-up-page-frame88 {
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-color: transparent;
+    margin-bottom: 16px;
+  }
+  .sign-up-page-text {
+    color: rgba(32, 12, 110, 1);
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Josefin Sans;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 200px;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .sign-up-page-x {
+    width: 20px;
+    height: 20px;
+    position: relative;
+  }
+  .sign-up-page-signupwith {
+    width: 333px;
+    display: flex;
+    padding: 20px 0 0 0;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-bottom: 16px;
+    flex-direction: column;
+  }
+  .signupwithgoogle {
+    width: 195px;
+    height: 37px;
+    display: flex;
+    padding: 8px 64px;
+    position: relative;
+    box-shadow: 0px 4px 4px 0px hsl(240deg 6% 87%);
+    box-sizing: content-box;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .google_logo {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    border-color: transparent;
+    margin-right: 16px;
+  }
+  .sign-up-text {
+    color: rgba(32, 12, 110, 1);
+    height: auto;
+    font-size: 14px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-weight: 500;
+    line-height: 21px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .signupwithfacebook {
+    width: 195px;
+    height: 37px;
+    display: flex;
+    padding: 8px 64px;
+    position: relative;
+    box-shadow: 0px 4px 4px 0px hsl(240deg 6% 87%);
+    box-sizing: content-box;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 8px;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .facebook_logo {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    border-color: transparent;
+    margin-right: 16px;
+  }
+  .regsitration-form {
+    width: 329px;
+    height: 374px;
+    display: flex;
+    padding: 8px 0 0 0;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+    margin-bottom: 16px;
+    flex-direction: column;
+  }
+  .sign-up-page-frame77 {
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+    margin-bottom: 8px;
+    flex-direction: column;
+  }
+  .sign-up-page-names {
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+    margin-bottom: 0px;
+  }
+  .sign-up-page-text06 {
+    color: rgba(121, 115, 115, 1);
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Josefin Sans;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 72px;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .sign-up-page-lastname {
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  .sign-up-page-frame75 {
+    display: flex;
+    padding: 4px 0;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+  }
+  .sign-up-page-rectangle34 {
+    width: 155px;
+    height: 41px;
+    position: relative;
+    border-color: transparent;
+    margin-right: 10px;
+    border-radius: 8px;
+  }
+  .sign-up-page-rectangle341 {
+    width: 162px;
+    height: 41px;
+    position: relative;
+    border-color: transparent;
+    border-radius: 8px;
+  }
+  .sign-up-page-frame78 {
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+    margin-bottom: 8px;
+    flex-direction: column;
+  }
+  .sign-up-page-details {
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+    margin-bottom: 4px;
+    flex-direction: column;
+  }
+  .sign-up-page-text10 {
+    color: rgba(121, 115, 115, 1);
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Josefin Sans;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .sign-up-page-frame73 {
+    width: 329px;
+    height: 41px;
+    display: flex;
+    padding: 16px;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 8px;
+    justify-content: flex-end;
+    background-color: rgba(217, 217, 217, 1);
+  }
+ .sign-up-page-frame79 {
+    display: flex;
+    position: relative;
+    align-items: flex-start;
+    border-color: transparent;
+    margin-bottom: 20px;
+    flex-direction: column;
+  }
+  .sign-up-page-frame82 {
+    display: flex;
+    padding: 0 10px;
+    position: relative;
+    align-items: center;
+    border-color: transparent;
+    margin-bottom: 16px;
+    justify-content: center;
+  }
+  .sign-up-page-rectangle54 {
+    width: 13px;
+    height: 13px;
+    position: relative;
+    border-color: transparent;
+    margin-right: 10px;
+    border-radius: 4px;
+  }
+  .sign-up-page-text18 {
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    font-size: 12px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Josefin Sans;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .sign-up-page-text19 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .sign-up-page-text21 {
+    color: rgba(31, 11, 110, 0.23999999463558197);
+  }
+  .sign-up-page-frame83 {
+    width: 329px;
+    display: flex;
+    padding: 10px 130px;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    justify-content: center;
+    background-color: rgba(32, 12, 110, 1);
+    cursor: pointer;
+  }
+  .sign-up-page-text24 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    font-size: 18px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Josefin Sans;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    cursor: pointer;
+  }
+  .sign-up-page-alreadyhaveanacct {
+    width: 330px;
+    display: flex;
+    padding: 0 4px;
+    position: relative;
+    border-color: transparent;
+    justify-content: center;
+  }
+}
+  .sign-up-page-text26 {
+    color: rgba(0, 0, 0, 1);
+    font-size: 12px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Josefin Sans;
+    font-weight: 500;
+    margin-right: 16px;
+   }
+  
+  

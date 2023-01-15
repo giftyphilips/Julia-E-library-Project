@@ -1,0 +1,240 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: "Nunito", sans-serif;
+}
+
+body {
+  margin: 0px;
+}
+
+nav {
+  position: relative;
+  font-size: 20px;
+}
+
+.nav {
+  list-style-type: none;
+  background-color: #c9c9c9;
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  display: inline-block;
+  margin: 1.4em 1em 1em 1em;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.play {
+  background-color: #200c6e;
+  margin: 0;
+}
+
+.ref {
+  margin: 30px;
+  margin-right: 50px;
+  margin-left: 50px;
+  background-color: white;
+}
+
+a:hover {
+  color: #4c00b0;
+}
+
+.bip {
+  position: absolute;
+  left: 10%;
+  height: 90%;
+  margin-top: 8px;
+}
+
+.help {
+  margin-right: 50px;
+  margin-left: 150px;
+}
+
+#time {
+  float: right;
+  margin-right: 20%;
+}
+
+.glow {
+  width: 70%;
+}
+
+.wrapper {
+  position: relative;
+  width: 500px;
+  display: flex;
+}
+
+.wrapper,
+.left {
+  width: 80%;
+}
+
+.wrapper,
+.right {
+  width: 80%;
+}
+
+#rule {
+  float: right;
+}
+
+#pull,
+#rule {
+  display: inline-block;
+}
+
+.data button {
+  width: 25px;
+}
+
+.bic {
+  float: right;
+}
+
+.mull,
+.bic {
+  height: 24px;
+  border-radius: 8px;
+  margin-top: 10px;
+  background-color: gainsboro;
+}
+
+.pick {
+  color: #200c6e;
+  font-size: 25px;
+}
+
+.up {
+  font-size: 20px;
+}
+
+.data {
+  padding: 0 0 40px 0;
+  font-size: 20px;
+  color: dimgrey;
+}
+
+.pan {
+  margin-right: 80px;
+}
+
+.pop {
+  margin-right: 28px;
+}
+
+.open {
+  width: 28%;
+}
+
+button {
+  border: none;
+}
+
+.nut {
+  background-color: #fece90;
+  margin: 0;
+}
+
+.doc {
+  display: inline-block;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.chat {
+  margin-left: 400px;
+}
+
+.well {
+  color: #200c6f;
+  font-weight: 600;
+}
+
+.shell {
+  margin-left: 600px;
+  padding: 25px;
+}
+
+.must {
+  margin-left: 550px;
+  font-size: 30px;
+}
+
+.pac {
+  margin-bottom: -5px;
+}
+
+.con {
+  text-align: center;
+  color: #200c6f;
+  font-size: 50px;
+}
+
+.peel {
+  width: 69px;
+    height: 79px;
+    position: relative;
+    border-color: transparent;
+    margin-right: 11px;
+}
+
+.plus {
+  font-size: 14px;
+  color: black;
+  font-weight: 600;
+}
+
+#can {
+  margin-right: 110px;
+}
+
+#gard {
+  margin-right: 230px;
+}
+
+#pit {
+  margin-right: 275px;
+}
+
+#fad {
+  margin-right: 55px;
+}
+
+#dor {
+  margin-right: 50px;
+}
+
+.log {
+  height: 24px;
+  border-radius: 8px;
+  background-color: gainsboro;
+}
+
+#haze {
+  background-color: #200c6f;
+  height: 30px;
+  font-size: 14px;
+  color: white;
+  font-weight: 600;
+}
+
+#sub {
+  color: gray;
+}
+
+.break {
+  color: dimgray;
+}
